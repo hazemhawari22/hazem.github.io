@@ -59,8 +59,8 @@
     </g>
 
     <!-- title block -->
-    <text x="80" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#f3f1ea" font-weight="500">Hazem</text>
-    <text x="80" y="156" font-family="'Courier New', monospace" font-size="16" fill="#7fb0d9" letter-spacing="1">Mathematics &amp; Data Science</text>
+    <text x="80" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#f3f1ea" font-weight="500">Hazem Hawari</text>
+    <text x="80" y="156" font-family="'Courier New', monospace" font-size="16" fill="#7fb0d9" letter-spacing="1">Mathematics</text>
     <text x="80" y="182" font-family="'Courier New', monospace" font-size="13" fill="#6b7684" letter-spacing="0.5">Analysis and Geometry · Universitas Andalas</text>
 
     <!-- corner tick / axis mark -->

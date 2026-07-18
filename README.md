@@ -18,9 +18,18 @@
 
 > *"Setiap kurva punya persamaan; setiap dataset punya cerita. Saya di sini untuk menemukan keduanya."*
 
-Saya **Hazem** — lulusan **Matematika dan Data Science, Universitas Andalas** (GPA 3.48/4.00), spesialisasi **Analysis and Geometry**. Skripsi saya menurunkan persamaan kecepatan translasi dan rotasi pada gerak sliding-rolling menggunakan Darboux frame dan pendekatan adjoint, tervalidasi lewat simulasi numerik di MATLAB.
+Saya merupakan lulusan Matematika dengan dasar yang kuat dalam analisis kuantitatif, pemodelan statistika, dan pemecahan masalah komputasional. Bagi saya, perjalanan akademik bukan sekadar mempelajari persamaan, algoritma, atau rumus matematika, melainkan tentang bagaimana mengubah permasalahan yang kompleks menjadi solusi yang jelas, terukur, dan dapat memberikan dampak nyata.
 
-Empat semester saya habiskan sebagai asisten laboratorium dan pengajaran, membimbing 40–60 mahasiswa per semester lintas lima mata kuliah. Sekarang saya membawa cara berpikir yang sama — presisi, sistematis, berbasis bukti — ke dunia data, riset kuantitatif, dan bisnis.
+Selama menempuh pendidikan di Universitas Andalas, saya berkesempatan mengembangkan kemampuan melalui berbagai peran akademik. Sebagai Asisten Laboratorium, saya membimbing mahasiswa dalam mata kuliah Metode Numerik, Algoritma dan Pemrograman, Persamaan Diferensial, Sistem Basis Data, serta Metode Statistika. Pengalaman tersebut tidak hanya memperdalam kemampuan teknis saya, tetapi juga melatih kemampuan komunikasi untuk menjelaskan konsep-konsep yang kompleks secara sistematis dan mudah dipahami.
+
+Selain itu, saya juga dipercaya sebagai Asisten Dosen pada mata kuliah Statistika Matematika, Pemrograman Linear, Fungsi Kompleks, dan Bahasa Inggris Matematika. Pengalaman mengajar ini memperkuat keyakinan saya bahwa pemahaman yang sesungguhnya lahir ketika seseorang mampu membagikan pengetahuan kepada orang lain.
+
+Di bidang penelitian, saya aktif terlibat dalam berbagai proyek akademik yang memperkuat kemampuan saya dalam menggunakan MATLAB, Python, LaTeX, MySQL, dan Minitab. Bagi saya, teknologi tersebut bukan hanya alat untuk mengolah data, tetapi juga sarana untuk menghasilkan analisis yang mampu menjawab permasalahan dan mendukung pengambilan keputusan berbasis data.
+
+Di luar kegiatan akademik, saya dipercaya sebagai Ketua Pelaksana Pekan Seni Bermatematika (PSB) XXII, di mana saya memimpin koordinasi tim lintas divisi, mengelola logistik, serta menjalin komunikasi dengan berbagai pemangku kepentingan dalam menyukseskan salah satu program terbesar di lingkungan jurusan. Saya juga aktif berorganisasi melalui HIMATIKA dan BEM KM Universitas Andalas, pengalaman yang membentuk kemampuan kepemimpinan, kerja sama tim, serta pengambilan keputusan dalam situasi yang dinamis dan penuh tantangan.
+
+Saat ini, saya ingin menggabungkan kemampuan analitis, pengalaman kepemimpinan, dan semangat untuk terus belajar dalam membangun karier profesional. Saya percaya bahwa pendekatan yang berbasis data, dipadukan dengan kemampuan berpikir kritis dan kolaboratif, dapat menghasilkan solusi yang memberikan nilai tambah dan dampak nyata bagi organisasi maupun masyarakat.
+
 
 ### 🎯 What I Do
 

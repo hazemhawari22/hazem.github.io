@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:12161c,50:1a2029,100:7fb0d9&height=220&section=header&text=Hazem&fontSize=60&fontColor=f3f1ea&desc=Mathematics%20%26%20Data%20Science%20Graduate&descAlignY=62&descSize=18&animation=fadeIn)
+![Header](https://raw.githubusercontent.com/hazemhawari22/hazemhawari22.github.io/main/header-hazem.svg)
 
 <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=20&duration=2800&pause=1200&color=7FB0D9&center=true&vCenter=true&width=650&lines=Analysis+%26+Geometry+Specialist;Data+Analytics+%7C+Quantitative+Research;Python+%C2%B7+MATLAB+%C2%B7+SQL+%C2%B7+R;Turning+equations+into+decisions." alt="Typing SVG" />
 

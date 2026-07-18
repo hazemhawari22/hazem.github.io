@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/hazemhawari22/hazemhawari22.github.io/main/header-hazem.svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:12161c,50:1a2029,100:7fb0d9&height=220&section=header&text=Hazem&fontSize=60&fontColor=f3f1ea&desc=Mathematics%20%26%20Data%20Science%20Graduate&descAlignY=62&descSize=18&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=20&duration=2800&pause=1200&color=7FB0D9&center=true&vCenter=true&width=650&lines=Analysis+%26+Geometry+Specialist;Data+Analytics+%7C+Quantitative+Research;Python+%C2%B7+MATLAB+%C2%B7+SQL+%C2%B7+R;Turning+equations+into+decisions." alt="Typing SVG" />
 
@@ -33,7 +33,7 @@ Empat semester saya habiskan sebagai asisten laboratorium dan pengajaran, membim
 
 |                     |                                                                        |
 | ------------------- | ---------------------------------------------------------------------- |
-| 🎓 **Education**     | S,Si. — Bachelor of Science, Universitas Andalas   |
+| 🎓 **Education**     | S.Mat. — Bachelor of Mathematics & Data Science, Universitas Andalas   |
 | 🧭 **Specialization** | Analysis and Geometry                                                 |
 | 📍 **Location**      | Padang, Indonesia                                                     |
 | 💼 **Focus**         | Data Analytics · Banking · Business Development · Finance · Teaching  |
@@ -86,11 +86,11 @@ Empat semester saya habiskan sebagai asisten laboratorium dan pengajaran, membim
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazemhawari22&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=D28C5D&icon_color=D28C5D&text_color=C9D1D9&ring_color=D28C5D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazemhawari22&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0B0E13&title_color=C9A24A&icon_color=7FB0D9&text_color=D7DEE6&ring_color=C9A24A)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hazemhawari22&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=D28C5D&ring=D28C5D&fire=D28C5D&currStreakLabel=D28C5D&sideLabels=D28C5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hazemhawari22&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0B0E13&stroke=7FB0D9&ring=C9A24A&fire=C9A24A&currStreakLabel=C9A24A&sideLabels=D7DEE6&dates=D7DEE6)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hazemhawari22&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=D28C5D&line=D28C5D&point=D28C5D&area_color=6D2D43)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hazemhawari22&theme=react-dark&hide_border=true&area=true&bg_color=0B0E13&color=C9A24A&line=7FB0D9&point=C9A24A&area_color=7FB0D9)
 
 </div>
 
@@ -100,7 +100,7 @@ Empat semester saya habiskan sebagai asisten laboratorium dan pengajaran, membim
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hazemhawari22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hazemhawari22&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6&title=Commits,Stars,Followers,Repositories)
 
 </div>
 
@@ -108,9 +108,9 @@ Empat semester saya habiskan sebagai asisten laboratorium dan pengajaran, membim
 
 ### 💬 Let's Connect
 
-[![Ask Me Anything](https://img.shields.io/badge/💭_Ask_Me_Anything-D28C5D?style=for-the-badge&labelColor=0D1117)](https://github.com/hazemhawari22/hazemhawari22/issues/new?title=Hi+Hazem!&body=Tulis+pesan+atau+pertanyaan+kamu+di+sini...)
-[![GitHub followers](https://img.shields.io/github/followers/hazemhawari22?label=Followers&style=for-the-badge&color=D28C5D&labelColor=0D1117&logo=github)](https://github.com/hazemhawari22?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=hazemhawari22&color=D28C5D&style=for-the-badge&label=PROFILE+VIEWS)](#)
+[![Ask Me Anything](https://img.shields.io/badge/💭_Ask_Me_Anything-C9A24A?style=for-the-badge&labelColor=0B0E13)](https://github.com/hazemhawari22/hazemhawari22/issues/new?title=Hi+Hazem!&body=Tulis+pesan+atau+pertanyaan+kamu+di+sini...)
+[![GitHub followers](https://img.shields.io/github/followers/hazemhawari22?label=Followers&style=for-the-badge&color=7FB0D9&labelColor=0B0E13&logo=github)](https://github.com/hazemhawari22?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=hazemhawari22&color=7FB0D9&style=for-the-badge&label=PROFILE+VIEWS)](#)
 
 📬 **hazemhawari22@gmail.com** · [LinkedIn](https://www.linkedin.com/in/hazem-hawari/) · [Portfolio](https://hazemhawari22.github.io)
 
